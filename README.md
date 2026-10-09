@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;C+%7C+C%2B%2B+%7C+Python+Developer;Frontend+Enthusiast;Learning+AI+%2F+ML" alt="Typing SVG" />
 </a>
 
+[![Portfolio](https://img.shields.io/badge/Check_Out_My-Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=white)](https://krishna9423-wagh.github.io/)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Krishna9423-wagh&color=7dd3fc&style=flat)
 ![Followers](https://img.shields.io/github/followers/Krishna9423-wagh?label=Followers&color=7dd3fc&style=flat)
 
